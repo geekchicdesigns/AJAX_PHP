@@ -1,6 +1,6 @@
 <?php
 
-$conn = mysqli_connect('localhost', 'root', 'CHarli123!@#', 'ajaxtest');
+$conn = mysqli_connect('localhost', 'root', 'password', 'ajaxtest');
 
 echo 'Processing...';
 
