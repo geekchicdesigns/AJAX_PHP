@@ -2,7 +2,6 @@
 // creates connection
 $conn = mysqli_connect('localhost', 'root', 'password', 'ajaxtest');
 
-
 echo 'Processing...';
 
 if(isset($_POST['name'])){
